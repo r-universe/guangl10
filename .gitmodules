@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "PPCSexRx"]
 	path = PPCSexRx
-	url = https://github.com/guangl10/ppcsexrx
+	url = https://github.com/cran/PPCSexRx
